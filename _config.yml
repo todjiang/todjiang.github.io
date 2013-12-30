@@ -3,3 +3,8 @@ markdown: redcarpet
 #redcarpet
 #rdiscount
 pygments: true
+encoding: utf-8
+permalink: none
+# permalink:
+# none /:categories/:title.html
+# date  /:categories/:year/:month/:day/:title.html
