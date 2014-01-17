@@ -5,9 +5,8 @@ layout: default
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="tags">
-<b>Tag:</b>
 {% for tag in page.tags %}
-    {{ tag }}  
+   <b> {{ tag }} </b>  
 {% endfor %}  
 </div>
 <div class="post">

@@ -162,3 +162,7 @@ a:visited { color: #a0a; }
 .tags {
   color: #aaa;
 }
+
+.tags b {
+  font-size: small;
+}
