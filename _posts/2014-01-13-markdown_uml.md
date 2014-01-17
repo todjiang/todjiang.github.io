@@ -2,7 +2,7 @@
 layout: post
 title:  "MarkDown UML"
 category: java
-tags: java, uml
+tags: java uml
 ---
 
 [Mark down UML][md_uml]
