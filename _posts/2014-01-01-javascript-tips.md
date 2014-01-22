@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Javascript tips"
-category: js
+category: javascript
 tags: js
 ---
 

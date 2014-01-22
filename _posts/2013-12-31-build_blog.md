@@ -2,7 +2,7 @@
 layout: post
 title:  "How build a markdown site"
 category: blog
-tags: blog, md
+tags: blog md
 ---
 
 [Jekyll][jekyll]
