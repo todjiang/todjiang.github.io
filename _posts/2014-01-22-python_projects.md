@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python Projects"
+title:  "Data Science Python Projects"
 category: python
 tags: python
 ---
