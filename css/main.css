@@ -91,6 +91,7 @@ a:visited { color: #a0a; }
 }
 
 .meta {
+  font-size: small;
   color: #aaa;
 }
 
@@ -131,7 +132,7 @@ a:visited { color: #a0a; }
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
-  padding: 0 .4em;
+  padding: 0.4em;
 }
 
 .post ul, .post ol {
@@ -141,7 +142,7 @@ a:visited { color: #a0a; }
 .post code {
   border: 1px solid #ddd;
   background-color: #eef;
-  padding: 0 .2em;
+  padding: 0.2em;
 }
 
 .post pre code {
@@ -160,6 +161,7 @@ a:visited { color: #a0a; }
 }
 
 .tags {
+  margin-top: 0.1em;
   color: #aaa;
 }
 
