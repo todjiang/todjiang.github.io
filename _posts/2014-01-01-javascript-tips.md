@@ -5,6 +5,8 @@ category: javascript
 tags: js
 ---
 
-[Javascript tips][js-tips]
+* [Javascript tips][js-tips]
+* [Javascript Right Way][js-rightway]
 
 [js-tips]: http://blog.jobbole.com/54495/
+[js-rightway]: http://jstherightway.org/
