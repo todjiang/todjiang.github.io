@@ -1,5 +1,6 @@
 name: Tod Jiang
-markdown: redcarpet
+markdown:      kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
 #redcarpet
 #rdiscount
 pygments: true
@@ -8,3 +9,5 @@ permalink: none
 # permalink:
 # none /:categories/:title.html
 # date  /:categories/:year/:month/:day/:title.html
+kramdown:
+  input: GFM
