@@ -9,3 +9,6 @@ tags: java
  
  
 [google_java_code_style]: https://code.google.com/p/google-api-java-client/source/browse/checkstyle.xml
+
+
+[java_multi_thread]: http://www.importnew.com/9994.html
