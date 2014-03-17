@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Java Projects"
+title:  "Libraries"
 category: open_source
 tags: java, js, python
 ---
