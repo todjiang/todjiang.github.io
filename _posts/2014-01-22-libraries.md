@@ -34,9 +34,8 @@ https://code.google.com/p/guava-libraries/wiki/ServiceExplained
 #JavaScript
 
 ### Progress
-[ProgressJs][progressjs]
-[NProgress][nprogress]
-
+  * [ProgressJs][progressjs]
+  * [NProgress][nprogress]
 
 [progressjs]: http://usablica.github.io/progress.js/
 [nprogress]: http://ricostacruz.com/nprogress/
@@ -76,17 +75,13 @@ Slick is a modern database query and access library for Scala
 
 #Interesting
 [Voice Chat API][voice_api]
+JetBrains [MPS][MPS]
+[Remote by 37Signals][remote_work]
+
 
 [voice_api]: http://voicechatapi.com/?hn
-
-
-JetBrains [MPS][MPS]
-[MPS]: https://github.com/JetBrains/MPS#
-
-
-[Remote by 37Signals][remote_work]
+[MPS]: https://github.com/JetBrains/MPS
 [remote_work]: http://jianshu.io/notebooks/41672/list
-
 
 #Game
 [GODOT Game Engine][godot_game_engine]
