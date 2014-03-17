@@ -2,7 +2,7 @@
 layout: post
 title:  "Libraries"
 category: open_source
-tags: java, js, python
+tags: java js python scala
 ---
 
 #Java
@@ -74,9 +74,9 @@ Slick is a modern database query and access library for Scala
 
 
 #Interesting
-[Voice Chat API][voice_api]
-JetBrains [MPS][MPS]
-[Remote by 37Signals][remote_work]
+ * [Voice Chat API][voice_api]
+ * JetBrains [MPS][MPS]
+ * [Remote by 37Signals][remote_work]
 
 
 [voice_api]: http://voicechatapi.com/?hn

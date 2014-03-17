@@ -1,17 +1,20 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2><div class="meta">{{ page.date | date_to_string }}</div>
-<p class="tags">
-{% for tag in page.tags %}
-   <b> {{ tag }} </b>  
-{% endfor %}  
-</p>
+<h2>{{ page.title }}</h2>
+<p class="meta">{{ page.date | date_to_string }}</p>
+<div class="tags">
+<b>Tag:</b>
 
+{% for tag in page.tags %}
+    {{ tag }}
+{% endfor %}  
+</div>
 
 <div class="post">
 {{ content }}
 </div>
+
 <div id="disqus_thread"></div>
 <script type="text/javascript">
 /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -25,4 +28,3 @@ var disqus_shortname = 'iamtod'; // required: replace example with your forum sh
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-    
