@@ -77,11 +77,13 @@ Slick is a modern database query and access library for Scala
  * [Voice Chat API][voice_api]
  * JetBrains [MPS][MPS]
  * [Remote by 37Signals][remote_work]
+ * [Interesting link][Interesting_link] 
 
 
 [voice_api]: http://voicechatapi.com/?hn
 [MPS]: https://github.com/JetBrains/MPS
 [remote_work]: http://jianshu.io/notebooks/41672/list
+[Interesting_link]: http://www.javaranger.com/archives/1138
 
 #Game
 [GODOT Game Engine][godot_game_engine]
