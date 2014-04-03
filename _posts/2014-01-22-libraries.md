@@ -36,10 +36,13 @@ https://code.google.com/p/guava-libraries/wiki/ServiceExplained
 ### Progress
   * [ProgressJs][progressjs]
   * [NProgress][nprogress]
+  * [Messenger][messenger]
+  * [Echarts][echarts]
 
 [progressjs]: http://usablica.github.io/progress.js/
 [nprogress]: http://ricostacruz.com/nprogress/
-
+[messenger]: http://github.hubspot.com/messenger/
+[echarts]: https://github.com/ecomfe/echarts
 
 #Python
 
@@ -77,12 +80,13 @@ Slick is a modern database query and access library for Scala
  * [Voice Chat API][voice_api]
  * JetBrains [MPS][MPS]
  * [Remote by 37Signals][remote_work]
+ * [Hex][hex]
  * [Interesting link][Interesting_link] 
-
 
 [voice_api]: http://voicechatapi.com/?hn
 [MPS]: https://github.com/JetBrains/MPS
 [remote_work]: http://jianshu.io/notebooks/41672/list
+[hex]: http://hex.youdao.com/zh-cn/index.html#bottom
 [Interesting_link]: http://www.javaranger.com/archives/1138
 
 #Game
