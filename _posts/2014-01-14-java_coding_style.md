@@ -12,3 +12,6 @@ tags: java
 
 
 [java_multi_thread]: http://www.importnew.com/9994.html
+
+
+[]: http://www.iteye.com/magazines/130

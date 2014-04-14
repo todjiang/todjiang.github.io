@@ -32,17 +32,17 @@ https://code.google.com/p/guava-libraries/wiki/ServiceExplained
 
 
 #JavaScript
-
-### Progress
   * [ProgressJs][progressjs]
   * [NProgress][nprogress]
   * [Messenger][messenger]
   * [Echarts][echarts]
+  * [JS Gantt][jsGantt]
 
 [progressjs]: http://usablica.github.io/progress.js/
 [nprogress]: http://ricostacruz.com/nprogress/
 [messenger]: http://github.hubspot.com/messenger/
 [echarts]: https://github.com/ecomfe/echarts
+[jsGantt]: https://github.com/robicch/jQueryGantt
 
 #Python
 
