@@ -32,17 +32,17 @@ https://code.google.com/p/guava-libraries/wiki/ServiceExplained
 
 
 #JavaScript
-
-### Progress
   * [ProgressJs][progressjs]
   * [NProgress][nprogress]
   * [Messenger][messenger]
   * [Echarts][echarts]
+  * [JS Gantt][jsGantt]
 
 [progressjs]: http://usablica.github.io/progress.js/
 [nprogress]: http://ricostacruz.com/nprogress/
 [messenger]: http://github.hubspot.com/messenger/
 [echarts]: https://github.com/ecomfe/echarts
+[jsGantt]: https://github.com/robicch/jQueryGantt
 
 #Python
 
@@ -93,3 +93,11 @@ Slick is a modern database query and access library for Scala
 [GODOT Game Engine][godot_game_engine]
 
 [godot_game_engine]: http://www.godotengine.org/wp/
+
+
+#iOS
+[iOS development sites][ios-development-sites]
+[Design guide from Apple][apple_design_guide]
+
+[ios-development-sites]: http://girlios.github.io/blog/2014/03/10/ios-development-sites/
+[apple_design_guide]: https://developer.apple.com/design/

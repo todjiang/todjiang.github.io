@@ -15,3 +15,5 @@ tags: java
 
 
 [PrinciplesOfOod]: http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
+
+[]: http://www.iteye.com/magazines/130
