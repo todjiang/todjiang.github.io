@@ -21,10 +21,11 @@ pache Storm is a free and open source distributed realtime computation system. S
 
 
 [apache_java_http_client]: http://hc.apache.org/
-
 [java_tools]: http://www.oschina.net/question/129540_23043
-
-[guava]: https://code.google.com/p/guava-libraries/wiki/ServiceExplained
+[Guava]: https://code.google.com/p/guava-libraries/wiki/ServiceExplained
+[Hamcrest]
+[DropWizard]
+[Joda-Time]
 
 [storm]: http://storm.incubator.apache.org/
 [storm_source]: https://github.com/nathanmarz/storm
