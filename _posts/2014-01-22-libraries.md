@@ -84,6 +84,7 @@ Slick is a modern database query and access library for Scala
  * [Hex][hex]
  * [Interesting link][Interesting_link] 
  * [Together JS][togetherjs] Colabrate api
+ * [Python Data Visualization][python_data_visualization]
  
 [voice_api]: http://voicechatapi.com/?hn
 [MPS]: https://github.com/JetBrains/MPS
@@ -91,6 +92,8 @@ Slick is a modern database query and access library for Scala
 [hex]: http://hex.youdao.com/zh-cn/index.html#bottom
 [Interesting_link]: http://www.javaranger.com/archives/1138
 [togetherjs]: https://togetherjs.com/#tryitout-section
+[python_data_visualization]: http://nbviewer.ipython.org/gist/wrobstory/1eb8cb704a52d18b9ee8/Up%20and%20Down%20PyData%202014.ipynb
+
 
 #Game
 [GODOT Game Engine][godot_game_engine]
