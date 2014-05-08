@@ -37,12 +37,14 @@ https://code.google.com/p/guava-libraries/wiki/ServiceExplained
   * [Messenger][messenger]
   * [Echarts][echarts]
   * [JS Gantt][jsGantt]
+  * [Rich Text Editor][rich_text_editor]
 
 [progressjs]: http://usablica.github.io/progress.js/
 [nprogress]: http://ricostacruz.com/nprogress/
 [messenger]: http://github.hubspot.com/messenger/
 [echarts]: https://github.com/ecomfe/echarts
 [jsGantt]: https://github.com/robicch/jQueryGantt
+[rich_text_editor]: https://github.com/mycolorway/simditor
 
 
 #Python
