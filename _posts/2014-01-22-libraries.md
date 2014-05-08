@@ -21,11 +21,12 @@ pache Storm is a free and open source distributed realtime computation system. S
 
 
 [apache_java_http_client]: http://hc.apache.org/
-
 [java_tools]: http://www.oschina.net/question/129540_23043
-
-
-https://code.google.com/p/guava-libraries/wiki/ServiceExplained
+[Guava]: https://code.google.com/p/guava-libraries/wiki/ServiceExplained
+[Guava_guide_cn]: http://ifeve.com/google-guava/
+[Hamcrest]
+[DropWizard]
+[Joda-Time]
 
 [storm]: http://storm.incubator.apache.org/
 [storm_source]: https://github.com/nathanmarz/storm
@@ -85,12 +86,17 @@ Slick is a modern database query and access library for Scala
  * [Remote by 37Signals][remote_work]
  * [Hex][hex]
  * [Interesting link][Interesting_link] 
-
+ * [Together JS][togetherjs] Colabrate api
+ * [Python Data Visualization][python_data_visualization]
+ 
 [voice_api]: http://voicechatapi.com/?hn
 [MPS]: https://github.com/JetBrains/MPS
 [remote_work]: http://jianshu.io/notebooks/41672/list
 [hex]: http://hex.youdao.com/zh-cn/index.html#bottom
 [Interesting_link]: http://www.javaranger.com/archives/1138
+[togetherjs]: https://togetherjs.com/#tryitout-section
+[python_data_visualization]: http://nbviewer.ipython.org/gist/wrobstory/1eb8cb704a52d18b9ee8/Up%20and%20Down%20PyData%202014.ipynb
+
 
 #Game
 [GODOT Game Engine][godot_game_engine]
