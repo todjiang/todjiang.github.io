@@ -38,12 +38,17 @@ pache Storm is a free and open source distributed realtime computation system. S
   * [Messenger][messenger]
   * [Echarts][echarts]
   * [JS Gantt][jsGantt]
+  * [Rich Text Editor][rich_text_editor]
+  * [Responsive tables][Responsive_tables]
 
+  
 [progressjs]: http://usablica.github.io/progress.js/
 [nprogress]: http://ricostacruz.com/nprogress/
 [messenger]: http://github.hubspot.com/messenger/
 [echarts]: https://github.com/ecomfe/echarts
 [jsGantt]: https://github.com/robicch/jQueryGantt
+[rich_text_editor]: https://github.com/mycolorway/simditor
+[Responsive_tables]: http://gergeo.se/RWD-Table-Patterns/
 
 
 #Python
@@ -66,7 +71,7 @@ Machine Learning in Python
 [Bayesian-hackers]: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 [Data Science in Python]: http://blog.yhathq.com/posts/data-science-in-python-tutorial.html
 [scikit]: http://scikit-learn.org/stable/
-
+[pandas-cookbook]: https://github.com/jvns/pandas-cookbook
 
 
 #Scala
