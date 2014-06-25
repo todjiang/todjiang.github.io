@@ -19,3 +19,8 @@ tags: java
 [PrinciplesOfOod]: http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
 
 [Programming_Knowledge_Collection]: http://www.iteye.com/magazines/130
+
+
+http://blog.sae.sina.com.cn/archives/3999
+
+http://blog.hesey.net/2014/05/gc-oriented-java-programming.html
