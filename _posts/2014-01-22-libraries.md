@@ -5,6 +5,8 @@ category: open_source
 tags: java js python scala
 ---
 
+
+
 #Java
 
 [Apache Java HTTP Client][apache_java_http_client]
@@ -49,6 +51,7 @@ pache Storm is a free and open source distributed realtime computation system. S
 [jsGantt]: https://github.com/robicch/jQueryGantt
 [rich_text_editor]: https://github.com/mycolorway/simditor
 [Responsive_tables]: http://gergeo.se/RWD-Table-Patterns/
+
 
 
 #Python
@@ -114,3 +117,10 @@ Slick is a modern database query and access library for Scala
 
 [ios-development-sites]: http://girlios.github.io/blog/2014/03/10/ios-development-sites/
 [apple_design_guide]: https://developer.apple.com/design/
+
+
+
+# Documentation:
+[web dev docs][devdocs]
+
+[devdocs]: http://devdocs.io/
