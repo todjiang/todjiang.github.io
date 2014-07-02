@@ -103,9 +103,10 @@ Slick is a modern database query and access library for Scala
 
 #Game
 [GODOT Game Engine][godot_game_engine]
+[Code Battlefield open source][code-battlefield]
 
 [godot_game_engine]: http://www.godotengine.org/wp/
-
+[code-battlefield]: https://github.com/code-battlefield
 
 #iOS
 [iOS development sites][ios-development-sites]
