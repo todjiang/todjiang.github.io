@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <style type="text/css">
+      html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0 }
+      #map-canvas { height: 100% }
+    </style>
+    <script type="text/javascript"
+      src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAv1nzuvoevLN00dtYN_ArXmD7zaFDHJ4I">
+    </script>
+    <script type="text/javascript">
+	    var locations = [ {"Lat": 31.23089, "Lng":121.53198, "Name":"Home"},
+                        {"Lat": 31.22995, "Lng":121.47988, "Name":"PayPal EOC"},
+                        {"Lat": 31.22377, "Lng":121.63787, "Name":"Medtronic"}  ];
+	
+      function initialize() {
+        var mapOptions = {
+          center: new google.maps.LatLng(31.23240, 121.56067), //God's Temple
+          zoom: 13,
+		      zoomControl:true
+        };
+        var map = new google.maps.Map(document.getElementById("map-canvas"),
+            mapOptions);
+			
+        // display all locations as google marker
+		    for (var i=0; i<locations.length; i++) {
+          var marker = new google.maps.Marker({ position: new google.maps.LatLng(locations[i]["Lat"], locations[i]["Lng"])});
+          marker.setMap(map);
+          var infowindow = new google.maps.InfoWindow({
+            content:locations[i]["Name"]
+          });
+          infowindow.open(map,marker);
+
+        }
+        
+        
+
+      }
+	 
+	  
+      google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+  </head>
+  <body>
+    <div id="map-canvas"/>
+  </body>
+</html>
