@@ -42,8 +42,9 @@ pache Storm is a free and open source distributed realtime computation system. S
   * [JS Gantt][jsGantt]
   * [Rich Text Editor][rich_text_editor]
   * [Responsive tables][Responsive_tables]
+  * [Awesome Javascript][awesome-javascript]
+ 	A collection of awesome browser-side JavaScript libraries, resources and shiny things
 
-  
 [progressjs]: http://usablica.github.io/progress.js/
 [nprogress]: http://ricostacruz.com/nprogress/
 [messenger]: http://github.hubspot.com/messenger/
@@ -51,7 +52,7 @@ pache Storm is a free and open source distributed realtime computation system. S
 [jsGantt]: https://github.com/robicch/jQueryGantt
 [rich_text_editor]: https://github.com/mycolorway/simditor
 [Responsive_tables]: http://gergeo.se/RWD-Table-Patterns/
-
+[awesome-javascript]: https://github.com/sorrycc/awesome-javascript
 
 
 #Python
@@ -124,3 +125,9 @@ Slick is a modern database query and access library for Scala
 [web dev docs][devdocs]
 
 [devdocs]: http://devdocs.io/
+
+
+# Sending Email Service
+[MailGun][mailgun]
+
+[mailgun]: https://mailgun.com
