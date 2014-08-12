@@ -70,13 +70,15 @@ Machine Learning in Python
  * Accessible to everybody, and reusable in various contexts
  * Built on NumPy, SciPy, and matplotlib
 
+[toga][toga]
+A Python native, OS native GUI toolkit. Part of the BeeWare suite.
 
 [falcon]: https://github.com/racker/falcon
 [Bayesian-hackers]: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 [Data Science in Python]: http://blog.yhathq.com/posts/data-science-in-python-tutorial.html
 [scikit]: http://scikit-learn.org/stable/
 [pandas-cookbook]: https://github.com/jvns/pandas-cookbook
-
+[toga]: http://pybee.org/toga/
 
 #Scala
 
