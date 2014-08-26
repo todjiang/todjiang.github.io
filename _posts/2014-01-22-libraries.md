@@ -29,10 +29,11 @@ pache Storm is a free and open source distributed realtime computation system. S
 [Hamcrest]
 [DropWizard]
 [Joda-Time]
+[JFinal][jfinal]
 
 [storm]: http://storm.incubator.apache.org/
 [storm_source]: https://github.com/nathanmarz/storm
-
+[jfinal]: http://www.jfinal.com/
 
 #JavaScript
   * [ProgressJs][progressjs]
