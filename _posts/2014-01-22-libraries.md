@@ -40,6 +40,8 @@ pache Storm is a free and open source distributed realtime computation system. S
   * [NProgress][nprogress]
   * [Messenger][messenger]
   * [Echarts][echarts]
+  * [Echarts Java Lib][echarts-java]
+  * [Chartist.js][chartist-js] simple responsive chart
   * [JS Gantt][jsGantt]
   * [Rich Text Editor][rich_text_editor]
   * [Responsive tables][Responsive_tables]
@@ -50,6 +52,8 @@ pache Storm is a free and open source distributed realtime computation system. S
 [nprogress]: http://ricostacruz.com/nprogress/
 [messenger]: http://github.hubspot.com/messenger/
 [echarts]: https://github.com/ecomfe/echarts
+[echarts-java]: http://www.oschina.net/p/echarts-java
+[chartist-js]: http://gionkunz.github.io/chartist-js/
 [jsGantt]: https://github.com/robicch/jQueryGantt
 [rich_text_editor]: https://github.com/mycolorway/simditor
 [Responsive_tables]: http://gergeo.se/RWD-Table-Patterns/
