@@ -6,7 +6,6 @@ tags: java js python scala
 ---
 
 
-
 #Java
 
 [Apache Java HTTP Client][apache_java_http_client]
@@ -46,6 +45,7 @@ pache Storm is a free and open source distributed realtime computation system. S
   * [Rich Text Editor][rich_text_editor]
   * [Responsive tables][Responsive_tables]
   * [Awesome Javascript][awesome-javascript]
+  * [jQuery EasyUI][jQuery-EasyUI]
  	A collection of awesome browser-side JavaScript libraries, resources and shiny things
 
 [progressjs]: http://usablica.github.io/progress.js/
@@ -58,6 +58,8 @@ pache Storm is a free and open source distributed realtime computation system. S
 [rich_text_editor]: https://github.com/mycolorway/simditor
 [Responsive_tables]: http://gergeo.se/RWD-Table-Patterns/
 [awesome-javascript]: https://github.com/sorrycc/awesome-javascript
+[jQuery-EasyUI]: http://www.jeasyui.com/index.php
+
 
 
 #Python
@@ -138,3 +140,7 @@ Slick is a modern database query and access library for Scala
 [MailGun][mailgun]
 
 [mailgun]: https://mailgun.com
+
+
+
+[HTTP_LIB_MULPLE_LANGUAGE]: http://unirest.io/
