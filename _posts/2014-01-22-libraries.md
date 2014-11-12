@@ -6,7 +6,6 @@ tags: java js python scala
 ---
 
 
-
 #Java
 
 [Apache Java HTTP Client][apache_java_http_client]
@@ -29,29 +28,39 @@ pache Storm is a free and open source distributed realtime computation system. S
 [Hamcrest]
 [DropWizard]
 [Joda-Time]
+[JFinal][jfinal]
 
 [storm]: http://storm.incubator.apache.org/
 [storm_source]: https://github.com/nathanmarz/storm
-
+[jfinal]: http://www.jfinal.com/
 
 #JavaScript
   * [ProgressJs][progressjs]
   * [NProgress][nprogress]
   * [Messenger][messenger]
   * [Echarts][echarts]
+  * [Echarts Java Lib][echarts-java]
+  * [Chartist.js][chartist-js] simple responsive chart
   * [JS Gantt][jsGantt]
   * [Rich Text Editor][rich_text_editor]
   * [Responsive tables][Responsive_tables]
+  * [Awesome Javascript][awesome-javascript]
   * [chart js][chartjs]
-  
+  * [jQuery EasyUI][jQuery-EasyUI]
+ 	A collection of awesome browser-side JavaScript libraries, resources and shiny things
+
 [progressjs]: http://usablica.github.io/progress.js/
 [nprogress]: http://ricostacruz.com/nprogress/
 [messenger]: http://github.hubspot.com/messenger/
 [echarts]: https://github.com/ecomfe/echarts
+[echarts-java]: http://www.oschina.net/p/echarts-java
+[chartist-js]: http://gionkunz.github.io/chartist-js/
 [jsGantt]: https://github.com/robicch/jQueryGantt
 [rich_text_editor]: https://github.com/mycolorway/simditor
 [Responsive_tables]: http://gergeo.se/RWD-Table-Patterns/
 [chartjs]: http://www.chartjs.org/
+[awesome-javascript]: https://github.com/sorrycc/awesome-javascript
+[jQuery-EasyUI]: http://www.jeasyui.com/index.php
 
 
 #Python
@@ -69,13 +78,15 @@ Machine Learning in Python
  * Accessible to everybody, and reusable in various contexts
  * Built on NumPy, SciPy, and matplotlib
 
+[toga][toga]
+A Python native, OS native GUI toolkit. Part of the BeeWare suite.
 
 [falcon]: https://github.com/racker/falcon
 [Bayesian-hackers]: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 [Data Science in Python]: http://blog.yhathq.com/posts/data-science-in-python-tutorial.html
 [scikit]: http://scikit-learn.org/stable/
 [pandas-cookbook]: https://github.com/jvns/pandas-cookbook
-
+[toga]: http://pybee.org/toga/
 
 #Scala
 
@@ -124,3 +135,13 @@ Slick is a modern database query and access library for Scala
 [web dev docs][devdocs]
 
 [devdocs]: http://devdocs.io/
+
+
+# Sending Email Service
+[MailGun][mailgun]
+
+[mailgun]: https://mailgun.com
+
+
+
+[HTTP_LIB_MULPLE_LANGUAGE]: http://unirest.io/

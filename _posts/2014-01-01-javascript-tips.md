@@ -15,3 +15,5 @@ tags: js
 https://github.com/rails/turbolinks
 
 http://jianshu.io/p/7c9aa9508641
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript

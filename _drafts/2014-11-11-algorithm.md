@@ -1,0 +1,1 @@
+http://www.quora.com/What-are-the-10-algorithms-one-must-know-in-order-to-solve-most-algorithm-challenges-puzzles
