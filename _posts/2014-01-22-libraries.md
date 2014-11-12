@@ -42,7 +42,7 @@ pache Storm is a free and open source distributed realtime computation system. S
   * [JS Gantt][jsGantt]
   * [Rich Text Editor][rich_text_editor]
   * [Responsive tables][Responsive_tables]
-
+  * [chart js][chartjs]
   
 [progressjs]: http://usablica.github.io/progress.js/
 [nprogress]: http://ricostacruz.com/nprogress/
@@ -51,7 +51,7 @@ pache Storm is a free and open source distributed realtime computation system. S
 [jsGantt]: https://github.com/robicch/jQueryGantt
 [rich_text_editor]: https://github.com/mycolorway/simditor
 [Responsive_tables]: http://gergeo.se/RWD-Table-Patterns/
-
+[chartjs]: http://www.chartjs.org/
 
 
 #Python
