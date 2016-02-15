@@ -1,9 +1,12 @@
 name: 01010100 01101111 01100100
+title: 01010100 01101111 01100100
+email: todjiang@gmail.com
+
 markdown:      kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 #redcarpet
 #rdiscount
-highlighter: true
+rouge: true
 encoding: utf-8
 permalink: none
 # permalink:
@@ -11,3 +14,5 @@ permalink: none
 # date  /:categories/:year/:month/:day/:title.html
 kramdown:
   input: GFM
+
+url: "http://iamtod.com" # the base hostname & protocol for your site
